@@ -1,0 +1,18 @@
+{
+  "name": "sampleproject",
+  "version": "1.0.0",
+  "description": "testing app in GCP kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Saravanakumar Arunachalam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
